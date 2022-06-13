@@ -11,7 +11,7 @@ import streamlit as st
 
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/USER/Documents/delcamp/streamlit/diabetes2/trained_model_checking.sav', 'rb'))
+loaded_model = pickle.load(open('trained_model_checking.sav', 'rb'))
 
 
 # creating a function for Prediction
