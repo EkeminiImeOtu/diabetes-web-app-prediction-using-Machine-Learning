@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 18 19:15:01 2021
 
-@author: siddhardhan
-"""
 
 import numpy as np
 import pickle
