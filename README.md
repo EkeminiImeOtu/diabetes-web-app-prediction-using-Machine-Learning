@@ -14,7 +14,7 @@ Insulin: 2-Hour serum insulin (mu U/ml)
 BMI: Body mass index (weight in kg/(height in m)2)
 DiabetesPedigreeFunction: Diabetes pedigree function (a function which scores the likelihood of diabetes based on family history)
 Age: Age (years)
-Outcome: Class variable (0 if non-diabetic, 1 if diabetic) Source:https://detailedappaiwebapp-57ufsggmhcyaywv95se55q.streamlit.app/
+Outcome: Class variable (0 if non-diabetic, 1 if diabetic) Source:https://towardsdatascience.com/end-to-end-data-science-example-predicting-diabetes-with-logistic-regression-db9bc88b4d16
 
 
 I used this data to check how the models run by inputting the values: data source:https://docs.google.com/spreadsheets/d/1yYUh8YTgLdU_ajztbG6obCv-YF4xMayu/edit?usp=sharing&ouid=115840868963819835580&rtpof=true&sd=true
